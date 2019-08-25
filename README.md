@@ -14,4 +14,3 @@ $python2 retasfb.py <br>
 
 
 
-![IMG_20190825_171442](https://user-images.githubusercontent.com/44978328/63648596-3d3f7b80-c75c-11e9-85ee-1d774c875054.jpg)
